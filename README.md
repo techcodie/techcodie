@@ -160,12 +160,41 @@ class TechCodie:
   alt="GitHub Streak"
 />
 
+  <br/>
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=techcodie&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/github/22C55E" width="20" height="20" valign="middle"/> Contribution Graph
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/techcodie/techcodie/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/techcodie/techcodie/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/techcodie/techcodie/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+    />
+  </picture>
 </div>
 
 ---
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer&animation=twinkling"
   width="100%"
   alt="Footer"
 />
