@@ -160,13 +160,6 @@ class TechCodie:
   alt="GitHub Streak"
 />
 
-  <br/>
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=techcodie&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true"
-    width="100%"
-    alt="GitHub Trophies"
-  />
 </div>
 
 ---
