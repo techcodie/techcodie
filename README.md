@@ -93,31 +93,43 @@ class TechCodie:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="#">Property Booking Portal</a></h3>
+      <h3><a href="https://github.com/techcodie/property-booking-portal">Property Booking Portal</a></h3>
       <p>Full-stack property booking web application featuring robust Role-Based Access Control (RBAC). Dedicated functionalities for distinct separated portals for Admins and Users.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/RBAC-0EA5E9?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/techcodie/property-booking-portal"><img src="https://img.shields.io/badge/Code_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://property-booking-portal.demo.com"><img src="https://img.shields.io/badge/Hosted_Link-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="#">Peer-to-Peer Expense Splitter</a></h3>
+      <h3><a href="https://github.com/techcodie/expense-splitter">Peer-to-Peer Expense Splitter</a></h3>
       <p>A full-stack financial tool ensuring debt-simplification. Employs core expense-splitting logic to manage finances among friends through an optimal transaction flow.</p>
       <img src="https://img.shields.io/badge/Algorithms-F7931A?style=flat-square"/>
       <img src="https://img.shields.io/badge/FullStack-3776AB?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/techcodie/expense-splitter"><img src="https://img.shields.io/badge/Code_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://expense-splitter.demo.com"><img src="https://img.shields.io/badge/Hosted_Link-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="#">SESD Fullstack Project</a></h3>
+      <h3><a href="https://github.com/techcodie/sesd-project">SESD Fullstack Project</a></h3>
       <p>Advanced full-stack application currently undergoing continuous refinement and structured refactoring to maintain standard coding practices and optimal performance.</p>
       <img src="https://img.shields.io/badge/Architecture-0EA5E9?style=flat-square"/>
       <img src="https://img.shields.io/badge/Backend-6DA55F?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/techcodie/sesd-project"><img src="https://img.shields.io/badge/Code_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://sesd-project.demo.com"><img src="https://img.shields.io/badge/Hosted_Link-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="#">Databricks Provider Feature</a></h3>
-      <p>Participated in resolving provider issues, configuring optimal bugfixes while keeping codebases pristine. Managed documentation and changelog tracking.</p>
-      <img src="https://img.shields.io/badge/Open_Source-22C55E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square"/>
+      <h3><a href="https://github.com/techcodie/stock-project">Stock Market Project</a></h3>
+      <p>Comprehensive application for tracking and analyzing stock market data. Includes features for portfolio management and interactive financial data visualization.</p>
+      <img src="https://img.shields.io/badge/Finance-22C55E?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Data_Viz-FF3621?style=flat-square"/>
+      <br/><br/>
+      <a href="https://github.com/techcodie/stock-project"><img src="https://img.shields.io/badge/Code_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://stock-project.demo.com"><img src="https://img.shields.io/badge/Hosted_Link-0EA5E9?style=flat-square&logo=vercel&logoColor=white"/></a>
     </td>
   </tr>
 </table>
